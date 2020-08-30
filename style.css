@@ -1,0 +1,75 @@
+header {
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 2%;
+  margin: 0px;
+}
+
+a.header {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover.header {
+  color: lightgray;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: dimgray;
+}
+
+body {
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: hsl(241, 67%, 37%);
+}
+
+div.body {
+  margin: 5%;
+  padding: 5%;
+  max-width: 35%;
+  background-color: white;
+}
+
+div.header {
+  padding: 2%;
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+div.footer {
+  padding: 2%;
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+h2.icons {
+  word-spacing: 30px;
+}
+
+img {
+  position: absolute;
+  left:40%;
+  top: 40%;
+  padding: 5%;
+  z-index: -1;
+}
+
+script {
+  display: none;
+}
