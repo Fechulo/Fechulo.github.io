@@ -1,0 +1,177 @@
+#wrapper{
+            padding:0px;
+            width:100%;
+            height:auto;
+            margin:auto;
+            overflow:hidden;
+}
+
+.image-container{
+            float:left;
+            width:450px;
+            height: 300px;
+            position:relative;
+            margin:10px;
+            cursor:pointer;
+}
+
+.image-container img{
+            width:450px;
+            height: 300px;
+            position:absolute;
+}
+
+.image-caption {
+            width:100%;
+            height:100%;
+            background:rgba(0, 0, 0, 0.7);
+            position:absolute; 
+            opacity:0; 
+            transition:all 300ms ease-in-out;
+           -webkit-transition:all 300ms ease-in-out;
+           -moz-transition:all 300ms ease-in-out;
+           -o-transition:all 300ms ease-in-out;
+           -ms-transition:all 300ms ease-in-out;
+}
+
+.image-caption h1{
+            padding:5px 0px 5px 0px;
+            text-align:center;
+            margin-left:-15px;
+            text-transform:uppercase;
+            font-family: 'ABeeZee';
+            font-size:25px;
+            color:white;
+}
+
+.image-caption p{
+            text-align:center; 
+            font-size:15px;
+            font-family: 'ABeeZee';
+            color:#fff;
+}
+
+.image-container:hover .image-caption{
+            opacity:1;
+}
+
+header {
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  display: block;
+  padding: 2%;
+  margin: 0px;
+}
+
+a.header {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover.header {
+  color: lightgray;
+}
+
+a {
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: dimgray;
+}
+
+body {
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  color: white;
+  background-color: hsl(241, 67%, 37%);
+  background-image: url("music.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+div.body {
+  margin: 5%;
+  padding: 5%;
+  background-color: hsl(241, 67%, 37%);
+  opacity: 0.9;
+}
+
+div.header {
+  padding: 2%;
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+div.footer {
+  padding: 2%;
+  font-family: 'ABeeZee';
+  font-size: 22px;
+  background-color: white;
+  color: black;
+  text-align: center;
+}
+
+h2.icons {
+  word-spacing: 30px;
+}
+
+script {
+  display: none;
+}
+
+/* Dropdown Button */
+.dropbtn {
+  background-color: black;
+  color: white;
+  padding: 16px;
+  border: none;
+  cursor: pointer;
+  font-family: 'ABeeZee';
+  font-size: 22px;
+}
+
+/* Dropdown button on hover & focus */
+.dropbtn:hover, .dropbtn:focus {
+  background-color: black;
+  color: lightgray;
+}
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  text-align: left;
+  position: relative;
+  display: inline-block;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 265px; 
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
+.show {display:block;}
