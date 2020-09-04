@@ -1,5 +1,5 @@
 header {
-  font-family: 'ABeeZee';
+  font-family: "ABeeZee";
   font-size: 22px;
   background-color: black;
   color: white;
@@ -28,7 +28,7 @@ a:hover {
 }
 
 body {
-  font-family: 'ABeeZee';
+  font-family: "ABeeZee";
   font-size: 22px;
   background-color: hsl(241, 67%, 37%);
 }
@@ -42,16 +42,17 @@ div.body {
 
 div.header {
   padding: 2%;
-  font-family: 'ABeeZee';
+  font-family: "ABeeZee";
   font-size: 22px;
   background-color: black;
   color: white;
+  line-height: 1;
   text-align: center;
 }
 
 div.footer {
   padding: 2%;
-  font-family: 'ABeeZee';
+  font-family: "ABeeZee";
   font-size: 22px;
   background-color: white;
   color: black;
@@ -64,7 +65,7 @@ h2.icons {
 
 img {
   position: absolute;
-  left:40%;
+  left: 40%;
   top: 40%;
   padding: 5%;
   z-index: -1;
@@ -81,12 +82,13 @@ script {
   padding: 16px;
   border: none;
   cursor: pointer;
-  font-family: 'ABeeZee';
+  font-family: "ABeeZee";
   font-size: 22px;
 }
 
 /* Dropdown button on hover & focus */
-.dropbtn:hover, .dropbtn:focus {
+.dropbtn:hover,
+.dropbtn:focus {
   background-color: black;
   color: lightgray;
 }
@@ -103,8 +105,8 @@ script {
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  min-width: 265px; 
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  min-width: 265px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
@@ -117,7 +119,11 @@ script {
 }
 
 /* Change color of dropdown links on hover */
-.dropdown-content a:hover {background-color: #ddd}
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
 
 /* Show the dropdown menu (use JS to add this class to the .dropdown-content container when the user clicks on the dropdown button) */
-.show {display:block;}
+.show {
+  display: block;
+}
