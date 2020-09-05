@@ -161,6 +161,10 @@ script {
   display: none;
 }
 
+blockquote {
+  font-style: italic;
+}
+
 /* Dropdown Button */
 .dropbtn {
   background-color: black;
