@@ -1,0 +1,1982 @@
+[
+  {
+    "ICAO": "A10",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A109",
+    "APC": "A"
+  },
+  {
+    "ICAO": "A119",
+    "APC": "A"
+  },
+  {
+    "ICAO": "A124",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A129",
+    "APC": "A"
+  },
+  {
+    "ICAO": "A19N",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A20N",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A21N",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A225",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A306",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A30B",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A310",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A318",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A319",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A320",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A321",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A332",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A333",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A338",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A339",
+    "APC": "D"
+  },
+  {
+    "ICAO": "A342",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A342",
+    "APC": "D"
+  },
+  {
+    "ICAO": "A343",
+    "APC": "D"
+  },
+  {
+    "ICAO": "A345",
+    "APC": "D"
+  },
+  {
+    "ICAO": "A346",
+    "APC": "D"
+  },
+  {
+    "ICAO": "A358",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A359",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A35K",
+    "APC": "D"
+  },
+  {
+    "ICAO": "A388",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A3ST",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A4",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A400",
+    "APC": "C"
+  },
+  {
+    "ICAO": "A6",
+    "APC": "B"
+  },
+  {
+    "ICAO": "A748",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AC11",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AC50",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AC56",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AC68",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AC6L",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AC95",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AEST",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AJET",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AN12",
+    "APC": "C"
+  },
+  {
+    "ICAO": "AN2",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AN22",
+    "APC": "C"
+  },
+  {
+    "ICAO": "AN24",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AN26",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AN28",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AN30",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AN32",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AN38",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AN70",
+    "APC": "C"
+  },
+  {
+    "ICAO": "AN72",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AS25",
+    "APC": "A"
+  },
+  {
+    "ICAO": "AS2T",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AS32",
+    "APC": "A"
+  },
+  {
+    "ICAO": "ASTR",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT42",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT43",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT44",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT45",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT72",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT75",
+    "APC": "B"
+  },
+  {
+    "ICAO": "AT76",
+    "APC": "B"
+  },
+  {
+    "ICAO": "ATLA",
+    "APC": "C"
+  },
+  {
+    "ICAO": "ATP",
+    "APC": "B"
+  },
+  {
+    "ICAO": "B06",
+    "APC": "A"
+  },
+  {
+    "ICAO": "B1",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B190",
+    "APC": "B"
+  },
+  {
+    "ICAO": "B2",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B230",
+    "APC": "A"
+  },
+  {
+    "ICAO": "B350",
+    "APC": "B"
+  },
+  {
+    "ICAO": "B36T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "B38M",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B39M",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B412",
+    "APC": "A"
+  },
+  {
+    "ICAO": "B430",
+    "APC": "A"
+  },
+  {
+    "ICAO": "B461",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B462",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B463",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B52",
+    "APC": "E"
+  },
+  {
+    "ICAO": "B609",
+    "APC": "A"
+  },
+  {
+    "ICAO": "B701",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B703",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B712",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B720",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B721",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B722",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B731",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B732",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B733",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B734",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B735",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B736",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B737",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B738",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B739",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B741",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B742",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B743",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B744",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B748",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B74D",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B74R",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B74S",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B752",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B753",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B762",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B763",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B764",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B772",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B773",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B77L",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B77W",
+    "APC": "D"
+  },
+  {
+    "ICAO": "B788",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B789",
+    "APC": "C"
+  },
+  {
+    "ICAO": "B78X",
+    "APC": "C"
+  },
+  {
+    "ICAO": "BA11",
+    "APC": "C"
+  },
+  {
+    "ICAO": "BCS1",
+    "APC": "C"
+  },
+  {
+    "ICAO": "BCS3",
+    "APC": "C"
+  },
+  {
+    "ICAO": "BDOG",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE10",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE20",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE23",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE33",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE35",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE36",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE40",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE50",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE55",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE56",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE58",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE60",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE65",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE70",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE76",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE77",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE80",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE95",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BE99",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BE9L",
+    "APC": "B"
+  },
+  {
+    "ICAO": "BER4",
+    "APC": "D"
+  },
+  {
+    "ICAO": "BN2P",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BN2T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BT36",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BU31",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BU33",
+    "APC": "A"
+  },
+  {
+    "ICAO": "BUC",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C06T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C130",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C135",
+    "APC": "D"
+  },
+  {
+    "ICAO": "C141",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C150",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C152",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C160",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C17",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C172",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C177",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C182",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C185",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C2",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C205",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C206",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C207",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C208",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C210",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C212",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C25A",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C25B",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C25C",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C303",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C30J",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C310",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C337",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C340",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C402",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C404",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C411",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C414",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C421",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C425",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C441",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C5",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C500",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C501",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C510",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C525",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C526",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C550",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C551",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C560",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C56X",
+    "APC": "B"
+  },
+  {
+    "ICAO": "C5A",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C5B",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C5C",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C5D",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C5M",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C650",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C680",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C700",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C750",
+    "APC": "C"
+  },
+  {
+    "ICAO": "C77R",
+    "APC": "A"
+  },
+  {
+    "ICAO": "C82R",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH10",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH15",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH18",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH20",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH25",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH2T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH30",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CH50",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CL2T",
+    "APC": "B"
+  },
+  {
+    "ICAO": "CL30",
+    "APC": "C"
+  },
+  {
+    "ICAO": "CL60",
+    "APC": "C"
+  },
+  {
+    "ICAO": "CN35",
+    "APC": "B"
+  },
+  {
+    "ICAO": "CN35",
+    "APC": "C"
+  },
+  {
+    "ICAO": "COL4",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CONC",
+    "APC": "E"
+  },
+  {
+    "ICAO": "CP20",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CP23",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CP30",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CP75",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CP80",
+    "APC": "A"
+  },
+  {
+    "ICAO": "CRJ1",
+    "APC": "C"
+  },
+  {
+    "ICAO": "CRJ2",
+    "APC": "C"
+  },
+  {
+    "ICAO": "CRJ7",
+    "APC": "C"
+  },
+  {
+    "ICAO": "CRJ9",
+    "APC": "C"
+  },
+  {
+    "ICAO": "CRJX",
+    "APC": "C"
+  },
+  {
+    "ICAO": "D150",
+    "APC": "A"
+  },
+  {
+    "ICAO": "D228",
+    "APC": "A"
+  },
+  {
+    "ICAO": "D28D",
+    "APC": "A"
+  },
+  {
+    "ICAO": "D328",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DA40",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DA42",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DA62",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DC10",
+    "APC": "D"
+  },
+  {
+    "ICAO": "DC6",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DC85",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DC86",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DC87",
+    "APC": "D"
+  },
+  {
+    "ICAO": "DC91",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DC92",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DC93",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DC94",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DC95",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DH2T",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DH3T",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DH8A",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DH8B",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DH8C",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DH8D",
+    "APC": "C"
+  },
+  {
+    "ICAO": "DHC2",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DHC3",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DHC5",
+    "APC": "B"
+  },
+  {
+    "ICAO": "DHC6",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DHC7",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DIMO",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DINO",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DR40",
+    "APC": "A"
+  },
+  {
+    "ICAO": "DV20",
+    "APC": "A"
+  },
+  {
+    "ICAO": "E110",
+    "APC": "B"
+  },
+  {
+    "ICAO": "E120",
+    "APC": "B"
+  },
+  {
+    "ICAO": "E121",
+    "APC": "B"
+  },
+  {
+    "ICAO": "E135",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E145",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E170",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E190",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E195",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E2",
+    "APC": "B"
+  },
+  {
+    "ICAO": "E275",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E290",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E295",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E35L",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E3CF",
+    "APC": "D"
+  },
+  {
+    "ICAO": "E3TF",
+    "APC": "D"
+  },
+  {
+    "ICAO": "E45X",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E50P",
+    "APC": "B"
+  },
+  {
+    "ICAO": "E550",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E55P",
+    "APC": "B"
+  },
+  {
+    "ICAO": "E6",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E75L",
+    "APC": "C"
+  },
+  {
+    "ICAO": "E75S",
+    "APC": "C"
+  },
+  {
+    "ICAO": "EC25",
+    "APC": "A"
+  },
+  {
+    "ICAO": "EC35",
+    "APC": "A"
+  },
+  {
+    "ICAO": "EH10",
+    "APC": "A"
+  },
+  {
+    "ICAO": "EPIC",
+    "APC": "A"
+  },
+  {
+    "ICAO": "ETAR",
+    "APC": "B"
+  },
+  {
+    "ICAO": "EUFI",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F1",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F100",
+    "APC": "C"
+  },
+  {
+    "ICAO": "F111",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F117",
+    "APC": "E"
+  },
+  {
+    "ICAO": "F14",
+    "APC": "C"
+  },
+  {
+    "ICAO": "F15",
+    "APC": "C"
+  },
+  {
+    "ICAO": "F16",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F18",
+    "APC": "C"
+  },
+  {
+    "ICAO": "F2",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F22",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F26T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "F27",
+    "APC": "B"
+  },
+  {
+    "ICAO": "F28",
+    "APC": "C"
+  },
+  {
+    "ICAO": "F2TH",
+    "APC": "B"
+  },
+  {
+    "ICAO": "F35",
+    "APC": "D"
+  },
+  {
+    "ICAO": "F4",
+    "APC": "E"
+  },
+  {
+    "ICAO": "F406",
+    "APC": "B"
+  },
+  {
+    "ICAO": "F5",
+    "APC": "E"
+  },
+  {
+    "ICAO": "F50",
+    "APC": "B"
+  },
+  {
+    "ICAO": "F70",
+    "APC": "B"
+  },
+  {
+    "ICAO": "F900",
+    "APC": "B"
+  },
+  {
+    "ICAO": "FA10",
+    "APC": "B"
+  },
+  {
+    "ICAO": "FA20",
+    "APC": "B"
+  },
+  {
+    "ICAO": "FA50",
+    "APC": "C"
+  },
+  {
+    "ICAO": "FA7X",
+    "APC": "B"
+  },
+  {
+    "ICAO": "G115",
+    "APC": "A"
+  },
+  {
+    "ICAO": "G150",
+    "APC": "C"
+  },
+  {
+    "ICAO": "G159",
+    "APC": "B"
+  },
+  {
+    "ICAO": "G222",
+    "APC": "B"
+  },
+  {
+    "ICAO": "G280",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GALX",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GL5T",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GLEX",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GLF2",
+    "APC": "B"
+  },
+  {
+    "ICAO": "GLF3",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GLF4",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GLF5",
+    "APC": "C"
+  },
+  {
+    "ICAO": "GLF6",
+    "APC": "C"
+  },
+  {
+    "ICAO": "H25A",
+    "APC": "C"
+  },
+  {
+    "ICAO": "H25B",
+    "APC": "C"
+  },
+  {
+    "ICAO": "H25C",
+    "APC": "C"
+  },
+  {
+    "ICAO": "H47",
+    "APC": "A"
+  },
+  {
+    "ICAO": "H500",
+    "APC": "A"
+  },
+  {
+    "ICAO": "H60",
+    "APC": "A"
+  },
+  {
+    "ICAO": "H64",
+    "APC": "A"
+  },
+  {
+    "ICAO": "H66",
+    "APC": "A"
+  },
+  {
+    "ICAO": "HAR",
+    "APC": "C"
+  },
+  {
+    "ICAO": "HAWK",
+    "APC": "C"
+  },
+  {
+    "ICAO": "HDJT",
+    "APC": "B"
+  },
+  {
+    "ICAO": "IL18",
+    "APC": "C"
+  },
+  {
+    "ICAO": "IL62",
+    "APC": "D"
+  },
+  {
+    "ICAO": "IL76",
+    "APC": "B"
+  },
+  {
+    "ICAO": "IL86",
+    "APC": "D"
+  },
+  {
+    "ICAO": "IL96",
+    "APC": "D"
+  },
+  {
+    "ICAO": "J328",
+    "APC": "B"
+  },
+  {
+    "ICAO": "JAGR",
+    "APC": "D"
+  },
+  {
+    "ICAO": "JCOM",
+    "APC": "C"
+  },
+  {
+    "ICAO": "JS1",
+    "APC": "B"
+  },
+  {
+    "ICAO": "JS20",
+    "APC": "B"
+  },
+  {
+    "ICAO": "JS3",
+    "APC": "B"
+  },
+  {
+    "ICAO": "JS31",
+    "APC": "B"
+  },
+  {
+    "ICAO": "JS32",
+    "APC": "B"
+  },
+  {
+    "ICAO": "JS41",
+    "APC": "B"
+  },
+  {
+    "ICAO": "K35E",
+    "APC": "C"
+  },
+  {
+    "ICAO": "K35R",
+    "APC": "C"
+  },
+  {
+    "ICAO": "KA50",
+    "APC": "A"
+  },
+  {
+    "ICAO": "KA52",
+    "APC": "A"
+  },
+  {
+    "ICAO": "L101",
+    "APC": "C"
+  },
+  {
+    "ICAO": "L159",
+    "APC": "C"
+  },
+  {
+    "ICAO": "L188",
+    "APC": "C"
+  },
+  {
+    "ICAO": "L29B",
+    "APC": "C"
+  },
+  {
+    "ICAO": "L39",
+    "APC": "C"
+  },
+  {
+    "ICAO": "L410",
+    "APC": "A"
+  },
+  {
+    "ICAO": "L610",
+    "APC": "B"
+  },
+  {
+    "ICAO": "LA25",
+    "APC": "A"
+  },
+  {
+    "ICAO": "LA4",
+    "APC": "A"
+  },
+  {
+    "ICAO": "LEG2",
+    "APC": "A"
+  },
+  {
+    "ICAO": "LJ23",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ24",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ25",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ28",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ31",
+    "APC": "B"
+  },
+  {
+    "ICAO": "LJ35",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ40",
+    "APC": "B"
+  },
+  {
+    "ICAO": "LJ45",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ55",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LJ60",
+    "APC": "C"
+  },
+  {
+    "ICAO": "LNC2",
+    "APC": "A"
+  },
+  {
+    "ICAO": "LNC4",
+    "APC": "A"
+  },
+  {
+    "ICAO": "LNCE",
+    "APC": "A"
+  },
+  {
+    "ICAO": "M18",
+    "APC": "A"
+  },
+  {
+    "ICAO": "M18T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "M20P",
+    "APC": "A"
+  },
+  {
+    "ICAO": "M20T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "M339",
+    "APC": "B"
+  },
+  {
+    "ICAO": "MD11",
+    "APC": "D"
+  },
+  {
+    "ICAO": "MD80",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MD81",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MD82",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MD83",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MD87",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MD88",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MD90",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MG21",
+    "APC": "E"
+  },
+  {
+    "ICAO": "MG23",
+    "APC": "D"
+  },
+  {
+    "ICAO": "MG25",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MG29",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MG31",
+    "APC": "E"
+  },
+  {
+    "ICAO": "MI2",
+    "APC": "A"
+  },
+  {
+    "ICAO": "MI8",
+    "APC": "A"
+  },
+  {
+    "ICAO": "MIR2",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MJ2",
+    "APC": "A"
+  },
+  {
+    "ICAO": "MRF1",
+    "APC": "C"
+  },
+  {
+    "ICAO": "MU2",
+    "APC": "B"
+  },
+  {
+    "ICAO": "N262",
+    "APC": "A"
+  },
+  {
+    "ICAO": "NH90",
+    "APC": "A"
+  },
+  {
+    "ICAO": "NIM",
+    "APC": "D"
+  },
+  {
+    "ICAO": "P180",
+    "APC": "B"
+  },
+  {
+    "ICAO": "P28A",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P28B",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P28R",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P28S",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P28T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P3",
+    "APC": "C"
+  },
+  {
+    "ICAO": "P32R",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P46T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P68",
+    "APC": "A"
+  },
+  {
+    "ICAO": "P808",
+    "APC": "B"
+  },
+  {
+    "ICAO": "PA18",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA23",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA27",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA31",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA32",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA34",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA38",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA44",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PA46",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PAY2",
+    "APC": "B"
+  },
+  {
+    "ICAO": "PAY3",
+    "APC": "B"
+  },
+  {
+    "ICAO": "PAY4",
+    "APC": "B"
+  },
+  {
+    "ICAO": "PC12",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PC6T",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PC7",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PC9",
+    "APC": "A"
+  },
+  {
+    "ICAO": "PRM1",
+    "APC": "B"
+  },
+  {
+    "ICAO": "PZ04",
+    "APC": "A"
+  },
+  {
+    "ICAO": "R100",
+    "APC": "A"
+  },
+  {
+    "ICAO": "R135",
+    "APC": "D"
+  },
+  {
+    "ICAO": "R22",
+    "APC": "A"
+  },
+  {
+    "ICAO": "R44",
+    "APC": "A"
+  },
+  {
+    "ICAO": "RALL",
+    "APC": "A"
+  },
+  {
+    "ICAO": "RJ1H",
+    "APC": "C"
+  },
+  {
+    "ICAO": "RJ70",
+    "APC": "C"
+  },
+  {
+    "ICAO": "RJ85",
+    "APC": "C"
+  },
+  {
+    "ICAO": "S601",
+    "APC": "B"
+  },
+  {
+    "ICAO": "S61",
+    "APC": "A"
+  },
+  {
+    "ICAO": "S76",
+    "APC": "A"
+  },
+  {
+    "ICAO": "SB05",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SB20",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SB32",
+    "APC": "C"
+  },
+  {
+    "ICAO": "SB37",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SB39",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SBR1",
+    "APC": "C"
+  },
+  {
+    "ICAO": "SBR2",
+    "APC": "C"
+  },
+  {
+    "ICAO": "SC7",
+    "APC": "A"
+  },
+  {
+    "ICAO": "SF34",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SF36",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SF50",
+    "APC": "A"
+  },
+  {
+    "ICAO": "SH33",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SH36",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SJ30",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SR20",
+    "APC": "A"
+  },
+  {
+    "ICAO": "SR22",
+    "APC": "A"
+  },
+  {
+    "ICAO": "SU17",
+    "APC": "C"
+  },
+  {
+    "ICAO": "SU24",
+    "APC": "D"
+  },
+  {
+    "ICAO": "SU25",
+    "APC": "E"
+  },
+  {
+    "ICAO": "SU27",
+    "APC": "C"
+  },
+  {
+    "ICAO": "SU95",
+    "APC": "C"
+  },
+  {
+    "ICAO": "SW2",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SW3",
+    "APC": "B"
+  },
+  {
+    "ICAO": "SW4",
+    "APC": "B"
+  },
+  {
+    "ICAO": "T134",
+    "APC": "D"
+  },
+  {
+    "ICAO": "T154",
+    "APC": "C"
+  },
+  {
+    "ICAO": "T204",
+    "APC": "C"
+  },
+  {
+    "ICAO": "T22M",
+    "APC": "E"
+  },
+  {
+    "ICAO": "T37",
+    "APC": "B"
+  },
+  {
+    "ICAO": "T38",
+    "APC": "D"
+  },
+  {
+    "ICAO": "T411",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TAMP",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TB30",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TB31",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TBM7",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TBM8",
+    "APC": "B"
+  },
+  {
+    "ICAO": "TBM9",
+    "APC": "B"
+  },
+  {
+    "ICAO": "TOBA",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TOR",
+    "APC": "D"
+  },
+  {
+    "ICAO": "TRIN",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TRIS",
+    "APC": "A"
+  },
+  {
+    "ICAO": "TU95",
+    "APC": "C"
+  },
+  {
+    "ICAO": "TUCA",
+    "APC": "A"
+  },
+  {
+    "ICAO": "UH1",
+    "APC": "A"
+  },
+  {
+    "ICAO": "VC10",
+    "APC": "D"
+  },
+  {
+    "ICAO": "VL3",
+    "APC": "A"
+  },
+  {
+    "ICAO": "WT9",
+    "APC": "A"
+  },
+  {
+    "ICAO": "WW24",
+    "APC": "C"
+  },
+  {
+    "ICAO": "YK40",
+    "APC": "B"
+  },
+  {
+    "ICAO": "YK42",
+    "APC": "C"
+  }
+]

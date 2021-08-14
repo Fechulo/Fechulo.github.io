@@ -1,7 +1,6 @@
 [
   {
     "BasicSettings": {
-      "plugin_version": "0.5.3",
       "oceanic_kill_switch": "false",
       "event_tracks": "false",
       "event_slots": "false",
@@ -14,7 +13,7 @@
       "vnaaats_url": "https://vnaaats-net.ganderoceanic.ca/api/FlightDataAllGet",
       "vatsim_url": "https://status.vatsim.net/status.json",
       "slots_url": "https://bookings.vatcan.ca/api/event/",
-      "aircraft_url": "https://api.jsonbin.io/b/60e3b0ac55b7245a20d6a52f/latest",
+      "aircraft_url": "https://handlfederi.co/API/aircraft.json",
       "event_id": "xXpFB",
       "min_squawk": "6601",
       "max_squawk": "6677"
