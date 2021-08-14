@@ -1,6 +1,7 @@
 [
   {
     "BasicSettings": {
+      "sector_file": "VATeir AIRAC 2108",
       "oceanic_kill_switch": "false",
       "event_tracks": "false",
       "event_slots": "false",
