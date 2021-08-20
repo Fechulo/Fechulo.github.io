@@ -1374,19 +1374,28 @@
   },
   "TangoAirways": [{
       "airway": "T9",
-      "entryPoint": "LASNO"
+      "entryPoint": "LASNO",
+      "exitPoint": "BEGAS"
     },
     {
       "airway": "T290",
-      "entryPoint": "GELPO"
+      "entryPoint": "GELPO",
+      "exitPoint": "ADVAT"
     },
     {
       "airway": "T213",
-      "entryPoint": "TAMEL"
+      "entryPoint": "TAMEL",
+      "exitPoint": "BERUX"
     },
     {
       "airway": "T16",
-      "entryPoint": "OMOKO"
+      "entryPoint": "OMOKO",
+      "exitPoint": "GONAN"
+    },
+    {
+      "airway": "T13",
+      "entryPoint": "OMOKO",
+      "exitPoint": "NILAV"
     }
   ],
   "Ownership": [{
