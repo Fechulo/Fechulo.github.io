@@ -1378,11 +1378,6 @@
       "exitPoint": "BEGAS"
     },
     {
-      "airway": "T290",
-      "entryPoint": "GELPO",
-      "exitPoint": "ADVAT"
-    },
-    {
       "airway": "T213",
       "entryPoint": "TAMEL",
       "exitPoint": "BERUX"
@@ -1392,11 +1387,6 @@
       "entryPoint": "OMOKO",
       "exitPoint": "GONAN"
     },
-    {
-      "airway": "T13",
-      "entryPoint": "OMOKO",
-      "exitPoint": "NILAV"
-    }
   ],
   "Ownership": [{
       "airport": "EIDW",
