@@ -380,6 +380,23 @@
       }
     ]
   },
+  "FISProviders": [
+    {
+      "Region": "Dublin",
+      "Base": "EIDW",
+      "FISID": "DWI DWUN DA"
+    },
+    {
+      "Region": "Shannon",
+      "Base": "EINN",
+      "FISID": "SNI SLS SNE"
+    },
+    {
+      "Region": "Northern",
+      "Base": "EIKN",
+      "FISID": "SNI SLN SLS SNE"
+    }
+  ],
   "SIDs": [{
       "SID": "LIFFY#A",
       "CFL": "9000",
