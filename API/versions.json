@@ -3,5 +3,13 @@
     "0.5.4",
     "0.5.5"
   ],
-  "plugin_url": "https://forums.vateir.org/index.php?/topic/327-v%C3%A9cp-v054-beta/"
+  "plugin_versions": [
+    "0.5.4",
+    "0.5.5"
+  ],
+  "plugin_url": "https://forums.vateir.org/index.php?/topic/327-v%C3%A9cp-v054-beta/",
+  "sector_files": [
+    "VATeir AIRAC 2109"
+  ],
+  "sector_file_url": "https://forums.vateir.org/index.php?/topic/329-airac-2109/"
 }] 

@@ -1,7 +1,5 @@
 [{
   "BasicSettings": {
-    "sector_file": "VATeir AIRAC 2108",
-    "sector_file_url": "https://forums.vateir.org/index.php?/topic/318-airac-2108/",
     "oceanic_kill_switch": "false",
     "event_tracks": "false",
     "event_slots": "false",
