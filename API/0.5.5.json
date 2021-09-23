@@ -18,8 +18,8 @@
     "vatsim_url": "https://status.vatsim.net/status.json",
     "slots_url": "https://bookings.vatcan.ca/api/event/",
     "aircraft_url": "https://handlfederi.co/API/aircraft.json",
-    "metars_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&requestType=retrieve&format=xml&mostRecentForEachStation=constraint&hoursBeforeNow=24&stationString=",
-    "tafs_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=tafs&requestType=retrieve&format=xml&mostRecentForEachStation=constraint&hoursBeforeNow=24&stationString="
+    "metars_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=24&stationString=",
+    "tafs_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=tafs&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=24&stationString="
   },
   "vIACSquawks": [{
       "reg": "112",
@@ -384,17 +384,17 @@
   },
   "FISProviders": [
     {
-      "Region": "Dublin",
+      "Region": "DUBLIN",
       "Base": "EIDW",
-      "FISID": "DWI DWUN DA"
+      "FISID": "DWI DWUN SNE DA"
     },
     {
-      "Region": "Shannon",
+      "Region": "SHANNON",
       "Base": "EINN",
       "FISID": "SNI SLS SNE"
     },
     {
-      "Region": "Northern",
+      "Region": "NORTHERN",
       "Base": "EIKN",
       "FISID": "SNI SLN SLS SNE"
     }
