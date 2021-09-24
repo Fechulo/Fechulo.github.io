@@ -384,17 +384,17 @@
   },
   "FISProviders": [
     {
-      "Region": "DUBLIN",
+      "Region": "Dublin",
       "Base": "EIDW",
-      "FISID": "DWI DWUN SNE DA"
+      "FISID": "DWI DWUN SNE"
     },
     {
-      "Region": "SHANNON",
+      "Region": "Shannon",
       "Base": "EINN",
       "FISID": "SNI SLS SNE"
     },
     {
-      "Region": "NORTHERN",
+      "Region": "Northern",
       "Base": "EIKN",
       "FISID": "SNI SLN SLS SNE"
     }
