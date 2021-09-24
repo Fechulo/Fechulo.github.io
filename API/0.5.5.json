@@ -9,12 +9,12 @@
     "max_squawk": "6677"
   },
   "URLs": {
-    "event_tracks_url": "https://vnaaats-net.ganderoceanic.ca/api/GetAllNatTracks?event=true",
-    "real_tracks_url": "https://vnaaats-net.ganderoceanic.ca/api/GetAllNatTracks",
-    "concorde_tracks_url": "https://vnaaats-net.ganderoceanic.ca/api/GetAllNatTracks?concorde=true",
+    "event_tracks_url": "https://api.vnaaats.net/GetAllNatTracks?event=true",
+    "real_tracks_url": "https://api.vnaaats.net/GetAllNatTracks",
+    "concorde_tracks_url": "https://api.vnaaats.net/GetAllNatTracks?concorde=true",
     "websocket_url": "vateir-prd.orfik.io:8080/vecp",
     "nattrak_url": "https://nattrak.vatsim.net/pluginapi.php",
-    "vnaaats_url": "https://vnaaats-net.ganderoceanic.ca/api/FlightDataAllGet",
+    "vnaaats_url": "https://api.vnaaats.net/GetAllFlightData",
     "vatsim_url": "https://status.vatsim.net/status.json",
     "slots_url": "https://bookings.vatcan.ca/api/event/",
     "aircraft_url": "https://handlfederi.co/API/aircraft.json",
