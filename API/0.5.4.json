@@ -10,7 +10,7 @@
     "real_tracks_url": "https://api.vnaaats.net/GetAllNatTracks",
     "concorde_tracks_url": "https://api.vnaaats.net/GetAllNatTracks?concorde=true",
     "websocket_url": "vateir-prd.orfik.io:8080/vecp",
-    "nattrak_url": "https://rosterbuddy.org/api/nattrak/pluginapi.json",
+    "nattrak_url": "https://nattrak.vatsim.net/pluginapi.php",
     "vnaaats_url": "https://api.vnaaats.net/GetAllFlightData",
     "vatsim_url": "https://status.vatsim.net/status.json",
     "slots_url": "https://bookings.vatcan.ca/api/event/",
