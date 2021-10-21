@@ -1260,16 +1260,6 @@
       "CAT": "CD"
     },
     {
-      "SID": "ENDEQ",
-      "CFL": "9000",
-      "CAT": "ABCD"
-    },
-    {
-      "SID": "BOFUM",
-      "CFL": "9000",
-      "CAT": "ABCD"
-    },
-    {
       "SID": "*ENDEQ",
       "CFL": "9000",
       "CAT": "ABCD"
@@ -1416,7 +1406,7 @@
   "Ownership": [
     {
       "airport": "EIDW",
-      "owners": "DWDEL DWSGND DWTWR FIN DA DWLN DWUN SNE"
+      "owners": "DWDEL DWSGND DWTWR DA DWLN DWUN SNE"
     },
     {
       "airport": "EICK",
@@ -1432,7 +1422,7 @@
     },
     {
       "airport": "EIME",
-      "owners": "BALGND BAL RAD DWLS DWUS DWLN DWUN SNE"
+      "owners": "BALGND BAL RAD DWLS DWLN DWUN SNE"
     },
     {
       "airport": "EIKN",
@@ -1454,5 +1444,6 @@
       "airport": "EIWF",
       "owners": "WFTWR SLS SNE"
     }
-  ]
+  ],
+  "DublinGoAroundIDs": ["FIN", "DA", "DWLS", "DWLN", "*DWUN", "*SNE"]
 }]
