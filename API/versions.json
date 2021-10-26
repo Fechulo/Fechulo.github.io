@@ -1,13 +1,11 @@
 [{
   "activeVersions": [
-    "0.5.4",
     "0.5.5"
   ],
   "plugin_versions": [
-    "0.5.4",
     "0.5.5"
   ],
-  "plugin_url": "https://forums.vateir.org/index.php?/topic/327-v%C3%A9cp-v054-beta/",
+  "plugin_url": "https://forums.vateir.org/index.php?/topic/353-v%C3%A9cp-v055-beta/",
   "sector_files": [
     "VATeir AIRAC 2110"
   ],
