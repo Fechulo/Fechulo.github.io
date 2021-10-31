@@ -1,8 +1,8 @@
 [{
   "BasicSettings": {
     "oceanic_kill_switch": "false",
-    "event_tracks": "true",
-    "event_slots": "true",
+    "event_tracks": "false",
+    "event_slots": "false",
     "ctot_tsat_interval": "15",
     "event_id": "airhX",
     "min_squawk": "6601",
@@ -1401,16 +1401,6 @@
       "airway": "T16",
       "entryPoint": "OMOKO",
       "exitPoint": "GONAN"
-    },
-    {
-      "airway": "F1",
-      "entryPoint": "GOMUP",
-      "exitPoint": "LOMSI"
-    },
-    {
-      "airway": "F2",
-      "entryPoint": "SOMAX",
-      "exitPoint": "RELIC"
     }
   ],
   "Ownership": [
