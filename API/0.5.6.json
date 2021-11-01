@@ -1390,6 +1390,8 @@
     {
       "id":"T9",
       "direction":1,
+      "validFrom":1,
+      "validTo":1,
       "route":[
         {"name":"LASNO","latitude":48.6,"longitude":-9.0},
         {"name":"BEGAS","latitude":45.0,"longitude":-9.0}
@@ -1398,6 +1400,8 @@
     {
       "id":"T213",
       "direction":1,
+      "validFrom":1,
+      "validTo":1,
       "route":[
         {"name":"TAMEL","latitude":48.73,"longitude":-10.5},
         {"name":"BERUX","latitude":45.0,"longitude":-11.0}
@@ -1406,6 +1410,8 @@
     {
       "id":"T16",
       "direction":1,
+      "validFrom":1,
+      "validTo":1,
       "route":[
         {"name":"OMOKO","latitude":48.84,"longitude":-12.0},
         {"name":"GONAN","latitude":45.0,"longitude":-14.0}
@@ -1414,6 +1420,8 @@
     {
       "id":"T290",
       "direction":2,
+      "validFrom":1,
+      "validTo":1,
       "route":[
         {"name":"ADVAT","latitude":45.0,"longitude":-9.47},
         {"name":"GELPO","latitude":48.64,"longitude":-9.5}
@@ -1422,6 +1430,8 @@
     {
       "id":"T13",
       "direction":2,
+      "validFrom":1,
+      "validTo":1,
       "route":[
         {"name":"NILAV","latitude":45.0,"longitude":-13.42},
         {"name":"OMOKO","latitude":48.84,"longitude":-12.0}
