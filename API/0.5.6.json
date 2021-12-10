@@ -2,9 +2,9 @@
   "BasicSettings": {
     "oceanic_kill_switch": "false",
     "event_tracks": "false",
-    "event_slots": "false",
+    "event_slots": "true",
     "ctot_tsat_interval": "15",
-    "event_id": "airhX",
+    "event_id": "nZhyr",
     "min_squawk": "6601",
     "max_squawk": "6677"
   },
