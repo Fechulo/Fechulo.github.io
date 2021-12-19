@@ -4,7 +4,6 @@
     "event_tracks": "false",
     "event_slots": "true",
     "ctot_tsat_interval": "15",
-    "event_id": "nZhyr",
     "min_squawk": "6601",
     "max_squawk": "6677"
   },
@@ -16,7 +15,7 @@
     "nattrak_url": "https://nattrak.vatsim.net/pluginapi.php",
     "vnaaats_url": "https://api.vnaaats.net/GetAllFlightData",
     "vatsim_url": "https://status.vatsim.net/status.json",
-    "slots_url": "https://bookings.vatcan.ca/api/event/",
+    "slots_url": "https://bookings.vatcan.ca/api/event/nZhyr",
     "aircraft_url": "https://handlfederi.co/API/aircraft.json",
     "metars_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=24&stationString=",
     "tafs_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=tafs&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=24&stationString="
