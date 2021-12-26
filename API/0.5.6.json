@@ -2,7 +2,7 @@
   "BasicSettings": {
     "oceanic_kill_switch": "false",
     "event_tracks": "false",
-    "event_slots": "true",
+    "event_slots": "false",
     "ctot_tsat_interval": "15",
     "min_squawk": "6601",
     "max_squawk": "6677"
