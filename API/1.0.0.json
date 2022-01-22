@@ -19,7 +19,7 @@
     "aircraft_url": "https://handlfederi.co/API/aircraft.json",
     "metars_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=metars&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=24&stationString=",
     "tafs_url": "https://aviationweather.gov/adds/dataserver_current/httpparam?datasource=tafs&requestType=retrieve&format=xml&mostRecentForEachStation=true&hoursBeforeNow=24&stationString=",
-    "airspace_notices": "https://virtualiac.com/api/airspace/notices"
+    "airspace_notices": "https://handlfederi.co/API/activations.json"
   },
   "vIACSquawks": [
     {
