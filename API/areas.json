@@ -3,7 +3,7 @@
     "id":"D1",
     "type":"danger",
     "ceiling":40000,
-    "always_active":"false",
+    "always_active":"true",
     "vertices":[
       {
         "lat":"N053.52.11.433",
